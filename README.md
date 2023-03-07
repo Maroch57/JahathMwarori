@@ -5,7 +5,7 @@ I'm Jahath from Kenya, and I do Software Development. I really enjoy learning la
 ### Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / PYTHON
 
 
-# ~ ABOUT ~
+## ~ ABOUT ~
 - 🔭 I’m currently working on my company. 
 - 👯 I’m looking to collaborate on creating projects. 
 - 💬 Ask me about Software Development. 
