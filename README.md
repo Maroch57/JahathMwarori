@@ -1,9 +1,10 @@
-# Hi there 👋, im Jahath Mwarori
-#### I'm a Software Developer.
+# Hi there 👋, I'm Jahath Mwarori
+## I'm a Software Developer.
 I'm Jahath from Kenya, and I do Software Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general
 
-Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / PYTHON
+### Skills: VUE JS / REACT / JS / HTML / CSS / JAVA / PYTHON
 
+# ~ ABOUT ~
 - 🔭 I’m currently working on my company. 
 - 👯 I’m looking to collaborate on creating projects. 
 - 💬 Ask me about Software Development. 
