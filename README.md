@@ -9,7 +9,8 @@ I'm Jahath from Kenya, and I do Software Development. I really enjoy learning la
 </p>
 
 <hr>
-## ~ ABOUT ~ </hr>
+## ~ ABOUT ~ 
+</hr>
 - 🔭 I’m currently working on my coding skills. 
 - 👯 I’m looking to collaborate with Google, Microsoft and great Tech Companies. 
 - 💬 Ask me about Software Development. 
